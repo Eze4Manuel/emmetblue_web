@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.031" height="64.523" viewBox="0 0 75.031 64.523">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3498db;
+      }
+    </style>
+  </defs>
+  <g id="HMO_Admin_Unit" data-name="HMO Admin Unit" transform="translate(0 -35.853)">
+    <g id="Group_48" data-name="Group 48" transform="translate(0 35.853)">
+      <g id="Group_47" data-name="Group 47" transform="translate(0 0)">
+        <path id="Path_75" data-name="Path 75" class="cls-1" d="M66.113,42.314H58.984v-3a3.46,3.46,0,1,0-6.92,0v3H40.976v-3a3.46,3.46,0,1,0-6.92,0v3H22.968v-3a3.46,3.46,0,1,0-6.92,0v3H8.918A8.918,8.918,0,0,0,0,51.232v4.6H75.032v-4.6A8.918,8.918,0,0,0,66.113,42.314Z" transform="translate(0 -35.853)"/>
+      </g>
+    </g>
+    <g id="Group_50" data-name="Group 50" transform="translate(0 60.227)">
+      <g id="Group_49" data-name="Group 49">
+        <path id="Path_76" data-name="Path 76" class="cls-1" d="M0,202.173V233.4a8.928,8.928,0,0,0,8.918,8.918H66.113a8.928,8.928,0,0,0,8.918-8.918V202.173Zm48.435,18.969a2.2,2.2,0,0,1-2.2,2.2H40.629v5.608a2.2,2.2,0,0,1-2.2,2.2H36.6a2.2,2.2,0,0,1-2.2-2.2V223.34H28.795a2.2,2.2,0,0,1-2.2-2.2v-1.83a2.2,2.2,0,0,1,2.2-2.2H34.4v-5.608a2.2,2.2,0,0,1,2.2-2.2h1.83a2.2,2.2,0,0,1,2.2,2.2v5.608h5.608a2.2,2.2,0,0,1,2.2,2.2Z" transform="translate(0 -202.173)"/>
+      </g>
+    </g>
+  </g>
+</svg>

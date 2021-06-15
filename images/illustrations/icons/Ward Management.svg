@@ -1,0 +1,34 @@
+<svg id="Ward_Management" data-name="Ward Management" xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3498db;
+      }
+    </style>
+  </defs>
+  <g id="Group_28" data-name="Group 28" transform="translate(38.34 36.309)">
+    <g id="Group_27" data-name="Group 27">
+      <path id="Path_51" data-name="Path 51" class="cls-1" d="M324.852,286v14.6H302v3.809h22.852v10.283h3.809V286Z" transform="translate(-302 -286)"/>
+    </g>
+  </g>
+  <g id="Group_30" data-name="Group 30" transform="translate(38.34 42.021)">
+    <g id="Group_29" data-name="Group 29">
+      <path id="Path_52" data-name="Path 52" class="cls-1" d="M314.7,331H302v5.078h18.915A6.358,6.358,0,0,0,314.7,331Z" transform="translate(-302 -331)"/>
+    </g>
+  </g>
+  <g id="Group_32" data-name="Group 32">
+    <g id="Group_31" data-name="Group 31">
+      <path id="Path_53" data-name="Path 53" class="cls-1" d="M28.818,0H5.713A5.719,5.719,0,0,0,0,5.713v52.3H34.531V5.713A5.719,5.719,0,0,0,28.818,0ZM14.092,51.67H10.283V19.424h3.809Zm10.156,0H20.439V19.424h3.809Zm6.475-40.646a6.762,6.762,0,0,1-7.242-.491l-1.136-.845-1.136.845a6.564,6.564,0,0,1-7.883,0l-1.136-.845-1.136.845a6.762,6.762,0,0,1-7.242.491V5.713a1.906,1.906,0,0,1,1.9-1.9H28.818a1.906,1.906,0,0,1,1.9,1.9Z"/>
+    </g>
+  </g>
+  <g id="Group_34" data-name="Group 34" transform="translate(0 61.826)">
+    <g id="Group_33" data-name="Group 33">
+      <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-1" width="3.809" height="3.174"/>
+    </g>
+  </g>
+  <g id="Group_36" data-name="Group 36" transform="translate(30.723 61.826)">
+    <g id="Group_35" data-name="Group 35">
+      <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-1" width="3.809" height="3.174"/>
+    </g>
+  </g>
+</svg>
