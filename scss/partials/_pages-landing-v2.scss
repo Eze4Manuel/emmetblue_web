@@ -767,6 +767,7 @@ body #bulchat div {
             top: -116px;
             position: relative;
             opacity: 0;
+            z-index: 0;
             overflow: hidden;
           }
         }
@@ -1077,7 +1078,14 @@ body #bulchat div {
 #bulchat{
   display: none;
 }
-
+.navbar>.container{
+  max-width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.navbar-menu{
+  z-index: 1000;
+}
 
 @media screen and (max-width: 1200px){
 
