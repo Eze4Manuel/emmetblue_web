@@ -4,7 +4,7 @@ Landing kit 3 Package
 
 ## Demo file
 
-The index file is named `landing-v2.html` in the main demo
+The index file is named `index.html` in the main demo
 
 ## Get started
 
