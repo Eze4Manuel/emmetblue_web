@@ -400,6 +400,7 @@ TABLE OF CONTENTS
     transform: scale(0.7);
     transition: all 0.5s;
     animation: gelatine;
+
 }
 
 #bulchat.visible {
@@ -1072,6 +1073,10 @@ body #bulchat div {
 //   padding-top: 10px!important;
 //   padding-bottom: 10px!important;
 // }
+
+#bulchat{
+  display: none;
+}
 
 
 @media screen and (max-width: 1200px){
